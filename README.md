@@ -1,9 +1,4 @@
- __                        ___                       __    __  ___  _        __    __              _ _ _     _   
-/ _\_   _ _ __   ___ _ __ /   \_   _ _ __   ___ _ __/ / /\ \ \/ _ \/_\      / / /\ \ \___  _ __ __| | (_)___| |_ 
-\ \| | | | '_ \ / _ \ '__/ /\ / | | | '_ \ / _ \ '__\ \/  \/ / /_)//_\\ ____\ \/  \/ / _ \| '__/ _` | | / __| __|
-_\ \ |_| | |_) |  __/ | / /_//| |_| | |_) |  __/ |   \  /\  / ___/  _  \_____\  /\  / (_) | | | (_| | | \__ \ |_ 
-\__/\__,_| .__/ \___|_|/___,'  \__,_| .__/ \___|_|    \/  \/\/   \_/ \_/      \/  \/ \___/|_|  \__,_|_|_|___/\__|
-         |_|                        |_|                                                                          
+# SuperDuperWPA-Wordlist
 
 Ghello fellow hackers, you've probably come here for the big ass WPA wordlist rite?
 Well, it's too big to be uploaded to GitHub but i'll provide you the link in this file but first some things you need to know:
